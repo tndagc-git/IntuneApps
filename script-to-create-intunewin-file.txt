@@ -1,0 +1,1 @@
+IntuneWinAppUtil.exe -c "C:\Path\To\LogonPolicy" -s "logon.ps1" -o "C:\Path\To\Output"
